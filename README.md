@@ -1,4 +1,4 @@
-# fetch-rewards-event-viewer
+# Fech Rewards Event Viewer
 Fetch Rewards coding exercise.
 
 ## Description
